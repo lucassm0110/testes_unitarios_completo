@@ -1,5 +1,5 @@
 import pytest
-from tech.angelofdiasg.qabank.operacoes.calcular_desconto import calcular_desconto
+from tech.angelofdiasg.qabank.operacoes.calcular_descontoAnterior import calcular_desconto
 
 # ====================================================================
 # PARTE 1: TESTES DIRETOS (Abordagem Ingénua)
